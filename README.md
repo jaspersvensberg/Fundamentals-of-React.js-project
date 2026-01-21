@@ -1,6 +1,6 @@
 # Fundamentals of react.js project
 
-A **Multi-View Single-Page Applicationg** to manage contacts with multiple views.
+A **Multi-View Single-Page Application**
 
 ## Features
 - Home page with app description  
